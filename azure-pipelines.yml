@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool:  ubuntu-aws
+pool: ubuntu-aws
 strategy:
   matrix:
     Python27:
